@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package TClass;
 
-/**
- *
- * @author LENOVO
- */
 public class Maineclipse {
     public static void main(String[] args){
     Eclipse oval1 = new Eclipse();
