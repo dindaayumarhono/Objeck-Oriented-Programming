@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package TClass;
 
-/**
- *
- * @author LENOVO
- */
 public class Mainsquare {
     public static void main(String[] args){
      Square kotak1 = new Square();   
